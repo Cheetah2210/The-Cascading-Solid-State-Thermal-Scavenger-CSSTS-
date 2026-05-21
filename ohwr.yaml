@@ -1,0 +1,26 @@
+manifest-version: 1.0
+
+project:
+  name: Cascading Solid-State Thermal Scavenger
+  short-description: Frictionless, zero-wear micro-thermal energy harvester using immiscible ferrofluids.
+  description: >
+    The Cascading Solid-State Thermal Scavenger (CSSTS) combines magnetohydrodynamics, 
+    immiscible fluid dynamics, and multi-stage kinetic scavenging into a completely 
+    solid-state, closed-loop fluid circuit. It requires zero internal moving mechanical 
+    parts for fluid transport, eliminating mechanical wear and harvesting ambient waste heat.
+  category: Renewable Energy / Harvesting
+  keywords:
+    - ferrofluid
+    - thermal-siphon
+    - micro-hydro
+    - solid-state
+    - magnetohydrodynamics
+  license: CC0-1.0
+
+authors:
+  - name: Emily 🌻 
+    organization: Cheetahs Creations
+    profile: https://github.com/Cheetah2210
+
+documentation:
+  readme: README.md
